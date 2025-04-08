@@ -21,5 +21,4 @@ Learn More..
 
 Tip Jars ❤️:
 [IPCSS]: 0x77702b30a0276A4436BB688586147Ff75d64E97B
-
 [Etherscan]: 0x71c7656ec7ab88b098defb751b7401b5f6d8976f
